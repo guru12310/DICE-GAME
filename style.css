@@ -1,0 +1,24 @@
+.container{
+    border-style:double;
+    text-align: center;
+    background-color: rgb(199, 213, 96);
+    padding: 5px;
+    margin: 0px;
+}
+.dice{
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 45px;
+}
+body{
+    background-image: url(challenge.gif);
+   
+    
+}
+h1{
+    color: green;
+}
